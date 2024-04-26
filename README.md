@@ -23,6 +23,6 @@ _Bold Text_
 
 [Link text](http://www.google.com)
 
-![An image](http://placekitten.com/200/300)
+![An image](https://placekitten.com/200/300)
 
 ![An image of Mona](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
